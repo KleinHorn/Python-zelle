@@ -47,3 +47,19 @@
     - (A) They make a program more efficient
 10. The items listen in the parentheses of a function definition are called
     - (D) parameters
+
+## Discussion
+
+1. Compare and contrast the following pairs of concepts from the chapter
+    1. Hardware vs. Software
+        - Hardware refers to everything that is physical in a computer: copper, transistors, capacitors, ram, cpu. Software refers to the instructions that are being given to the hardware.
+    2. Algorithm vs. program
+        - An algorithm is a recipe for solving a mathematical problem. A precise step-by-step plan for solving a mathematical problem. A program is a set of instructions that are given to a computer to carry out.
+    3. Programming Language vs. Natural Language
+        - Programming languages have precise semantics and syntax. Natural language does not and can be interpreted differently depending on the situation.
+    4. High-Level Language vs. Machine Language
+        - High level languages are more like natural language in that they can be understood by humans. Machine languages are cryptic in nature and typically written in hex or binary.
+    5. Interpreter vs. Compiler
+        - An interpreter turns high level language into machine code line by line as the program is running. A compiler turns high-level languages into a file containing machine code that can be ran at a future time.
+    6. Syntax vs. Semantics
+        - Syntax is the grammar of a language: Where does a comma go? Do I need to indent here? Full stop? Semantics are the meaning of language, reign vs rain.
